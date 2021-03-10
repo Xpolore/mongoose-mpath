@@ -3,7 +3,7 @@
 
 ## Installation
 ```npm
-npm install mongoose-mpath
+npm install Xpolore/mongoose-mpath
 ```
 
 ## Setup
